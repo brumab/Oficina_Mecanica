@@ -1,6 +1,6 @@
 # Oficina_Mecanica
 
-# Projeto: Esquema Conceitual para Oficina Mecânica
+# Esquema Conceitual para Oficina Mecânica
 
 Este projeto consiste na criação de um esquema conceitual para um sistema de controle e gerenciamento de execução de ordens de serviço (OS) em uma oficina mecânica. O objetivo é modelar as entidades, relacionamentos e atributos necessários para representar o fluxo de trabalho descrito na narrativa.
 
