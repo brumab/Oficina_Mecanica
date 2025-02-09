@@ -122,11 +122,6 @@ Este projeto consiste na criação de um esquema conceitual para um sistema de c
 - **MySQL**: Para criação e gerenciamento do banco de dados.
 - **Ferramentas de Diagramação**: Utilizado para criar o diagrama Entidade-Relacionamento (DER).
 
----
-
-## Contribuição
-
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests para melhorar este projeto.
 
 ---
 
